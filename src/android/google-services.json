@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "774823310918",
+    "firebase_url": "https://pantracktech-1349.firebaseio.com",
+    "project_id": "pantracktech-1349",
+    "storage_bucket": "pantracktech-1349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774823310918:android:6eddeeeca95aaa1a",
+        "android_client_info": {
+          "package_name": "pantracktec.panorama.com.pantractec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774823310918-ip8kqrs2culmpgmlvpgoi9fvn6qcoerh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmn1NvX0Jl-o8_5WfFBwmR6Fne1OtQFng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
